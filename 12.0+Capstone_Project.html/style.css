@@ -1,0 +1,27 @@
+div > div > div > img {
+    border-radius: 5rem;
+}
+
+.gradient-color {
+background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  min-height: 100vh;
+}
+
+div > img {
+    border-radius: 50%;
+}
+
+h2 {
+    color: #2c5364;
+}
+
+p {
+    color: #203a43;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
